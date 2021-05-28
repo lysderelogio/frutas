@@ -1,0 +1,48 @@
+*{
+	margin:20;
+	padding:20;
+	border:20;
+}
+
+body {
+	background-color:#f7dfdf;
+}
+#topo {
+	height:135px;
+	background-color:#adbaff;
+	text-align:center;
+}
+#logo {
+	float:left;
+} 
+#conteudo{
+	height:1000px;
+	background-color:#ffbdbd;
+}
+H1 {
+	color: white;
+text-align:center;
+}
+H2{
+	color: black;
+	text-align:center;
+}
+H3{
+	color:black;
+	text-align:LEFT;
+}
+nav {
+	background-color:#adbaff;
+	height:1000px;
+	width:300px;
+	float:right;
+	text-align:center;
+}
+h6 {
+	color:black;
+	text-align:center;
+   font-family: 'Dancing Script', cursive;
+}
+nav{
+	background-image: linear-gradient(to top, #ffffff, #adbaff);
+}
